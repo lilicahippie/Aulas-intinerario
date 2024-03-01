@@ -1,2 +1,0 @@
-# Aulas-intinerario
-intinerario
