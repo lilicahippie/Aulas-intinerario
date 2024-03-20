@@ -22,7 +22,7 @@
       line-height: 30px; 
       margin: 0 16px; 
       text-decoration: none; 
-      font-family: 'Anta', sans-serif; 
+      font-family: "Anta", sans-serif; 
   }
   header div a:hover {
       color:rgb(216, 18, 35);
@@ -32,9 +32,7 @@
         *{
           margin: 0;
             
-
-         
-        }
+ }
         body {
             background-color: beige
         }
