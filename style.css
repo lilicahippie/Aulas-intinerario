@@ -1,58 +1,37 @@
- HEAD
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+    
 *{
     margin: 0;
       
-
+    
+    
    
   }
   body {
-      background-color: beige
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-image: url("https://img.freepik.com/vetores-premium/padrao-de-jogo-perfeito_118813-11742.jpg");
   }
   header {
       padding: 32px;
-      border-bottom: 1px solid rgb(25, 99, 197);
-      background-color: cadetblue;
+      border-bottom: 1px solid rgb(7, 38, 79);
+      background-color: rgb(194, 21, 221);
   }
   header div {
       text-align: center; 
   }
   header div a {
       color: white; 
-      font-size: 20px; 
+      font-size: 40px; 
       line-height: 30px; 
       margin: 0 16px; 
-      text-decoration: none; 
-      font-family: "Anta", sans-serif; 
+      text-decoration: none;
+      font-family: "VT323", monospace;
+     
   }
   header div a:hover {
-      color:rgb(216, 18, 35);
+      color:rgb(208, 230, 10);
       transition: color 700ms;
   }
 
-        *{
-          margin: 0;
-            
- }
-        body {
-            background-color: beige
-        }
-        header {
-            padding: 32px;
-            border-bottom: 1px solid rgb(25, 99, 197);
-            background-color: cadetblue;
-        }
-        header div {
-            text-align: center; 
-        }
-        header div a {
-            color: white; 
-            font-size: 20px; 
-            line-height: 30px; 
-            margin: 0 16px; 
-            text-decoration: none; 
-            font-family: 'Anta', sans-serif; 
-        }
-        header div a:hover {
-            color:rgb(216, 18, 35);
-            transition: color 700ms;
-        }
+ 
