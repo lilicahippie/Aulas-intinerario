@@ -1,24 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
     
-*{
-    margin: 0;
-      
-    
-    
-   
-  }
+
   body {
       background-size: 100%;
       background-repeat: no-repeat;
       background-image: url("https://img.freepik.com/vetores-premium/padrao-de-jogo-perfeito_118813-11742.jpg");
+      margin: 0px
   }
   header {
-      padding: 32px;
+      padding: 50px;
       border-bottom: 1px solid rgb(7, 38, 79);
       background-color: rgb(194, 21, 221);
+      
   }
   header div {
-      text-align: center; 
+      text-align: left; 
   }
   header div a {
       color: white; 
