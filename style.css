@@ -13,21 +13,40 @@
       background-color: rgb(194, 21, 221);
       
   }
+<<<<<<< HEAD
   header div {
       text-align: left; 
   }
+=======
+>>>>>>> 62d0349048313bfd686ce50c18bfba22e46c39a5
   header div a {
       color: white; 
-      font-size: 40px; 
+      font-size: 20px; 
       line-height: 30px; 
       margin: 0 16px; 
       text-decoration: none;
       font-family: "VT323", monospace;
-     
   }
   header div a:hover {
       color:rgb(208, 230, 10);
       transition: color 700ms;
   }
-
+  header div h1 {
+    color: white; 
+      font-size: 50px; 
+      line-height: 30px; 
+      margin: 0 16px; 
+      text-decoration: none;
+      font-family: "VT323", monospace;
+      text-align: center;
+  }
+header div h5{
+    color: white; 
+      font-size: 25px; 
+      line-height: 30px; 
+      margin: 0 16px; 
+      text-decoration: none;
+      font-family: "VT323", monospace;
+      text-align: center;
+}
  
